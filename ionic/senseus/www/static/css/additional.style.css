@@ -19,6 +19,19 @@ div {
 	margin-top: 150px;
 }
 
+.uno {
+	margin-top: 50px;
+	margin-bottom: 0px;
+}
+
+.firstTextBox {
+	justify-content: flex-end;
+}
+
+#week-calendar {
+	position: static;
+}
+
 
 
 
